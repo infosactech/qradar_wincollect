@@ -1,2 +1,4 @@
 # qradar_wincollect
-installation wincollect agent using powershell script
+Installation Wincollect agent using PowerShell script
+
+For variable ($Custom Query) is required preinstallation Sysmon tool
